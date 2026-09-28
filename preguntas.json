@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿Cuantos cilindros suele tener la mayor velocidad punta en una moto?",
+        "opciones": ["Bicilindrica", "Tricilindrica", "Tetracilindrica", "Monocilindrica"],
+        "respuesta_correcta": "Tetracilindrica"
+    },
+    {
+        "pregunta": "¿Que tipo de moto es la mas rapida?",
+        "opciones": ["R", "Naked", "Custom", "Scooter"],
+        "respuesta_correcta": "R"
+    },
+    {
+        "pregunta": "¿Que tipo de motos suelen ser las mas pesadas?",
+        "opciones": ["Adventure", "Cross", "Naked", "Custom"],
+        "respuesta_correcta": "Custom"
+    },
+    {
+        "pregunta": "¿Que sistema evita el bloqueo de ruedas en frenadas fuertes?",
+        "opciones": ["ABS", "CBS", "Control de traccion", "EBS"],
+        "respuesta_correcta": "ABS"
+    },
+    {
+        "pregunta": "¿Que tipo de enfriamiento es comun en motos deportivas?",
+        "opciones": ["Aire", "Liquido", "Aceite", "Hibrido"],
+        "respuesta_correcta": "Liquido"
+    },
+    {
+        "pregunta": "¿Cual es una ventaja de las motos con transmision por cardan?",
+        "opciones": ["Menor mantenimiento", "Mas flexibilidad", "Mas ruido", "Mejor aceleracion"],
+        "respuesta_correcta": "Menor mantenimiento"
+    },
+    {
+        "pregunta": "¿Que cilindrada suele tener una deportiva de entrada?",
+        "opciones": ["125cc", "250cc", "600cc", "1000cc"],
+        "respuesta_correcta": "600cc"
+    },
+    {
+        "pregunta": "¿Que tipo de moto suele tener manillar alto y postura erguida?",
+        "opciones": ["Naked", "Adventure", "Sport", "Custom"],
+        "respuesta_correcta": "Adventure"
+    },
+    {
+        "pregunta": "¿Que medida de rueda es comun en motos de cross delanteras?",
+        "opciones": ["17 pulgadas", "19 pulgadas", "21 pulgadas", "16 pulgadas"],
+        "respuesta_correcta": "21 pulgadas"
+    },
+    {
+        "pregunta": "¿Que componente transmite la potencia del motor a la rueda trasera en motos con cadena?",
+        "opciones": ["Eje", "Cardan", "Cadena", "Correa"],
+        "respuesta_correcta": "Cadena"
+    },
+    {
+        "pregunta": "¿Que caracteristica describe un motor 'torquero'?",
+        "opciones": ["Alto par a bajas rpm", "Alta potencia maxima", "Bajo consumo", "Revoluciones elevadas"],
+        "respuesta_correcta": "Alto par a bajas rpm"
+    },
+    {
+        "pregunta": "¿Que combustible usan las motos electricas?",
+        "opciones": ["Gasolina", "Diesel", "Electricidad", "Hidrogeno"],
+        "respuesta_correcta": "Electricidad"
+    },
+    {
+        "pregunta": "¿Que mantenimiento es necesario con mayor frecuencia en una moto con cadena?",
+        "opciones": ["Cambio de aceite", "Ajuste y lubricacion de cadena", "Revision de frenos", "Sustitucion de bujias"],
+        "respuesta_correcta": "Ajuste y lubricacion de cadena"
+    },
+    {
+        "pregunta": "¿Que moto es tipicamente usada para hacer trial y habilidades tecnicas?",
+        "opciones": ["Trial", "Cross", "Naked", "Custom"],
+        "respuesta_correcta": "Trial"
+    },
+    {
+        "pregunta": "¿Que sistema ayuda a controlar la patinada de la rueda trasera?",
+        "opciones": ["ABS", "TCS", "EBS", "APC"],
+        "respuesta_correcta": "TCS"
+    },
+    {
+        "pregunta": "¿Cual es la ventaja principal de una moto con carenado completo?",
+        "opciones": ["Proteccion aerodinamica", "Menor peso", "Mejor frenada", "Facilidad de mantenimiento"],
+        "respuesta_correcta": "Proteccion aerodinamica"
+    },
+    {
+        "pregunta": "¿Que tipo de freno delantero es habitual en motos deportivas modernas?",
+        "opciones": ["Tambor", "Disco simple", "Doble disco", "ABS integrado"],
+        "respuesta_correcta": "Doble disco"
+    },
+    {
+        "pregunta": "¿Que componente permite desacoplar el motor de la transmision?",
+        "opciones": ["Embrague", "Caja de cambios", "Cardan", "Diferencial"],
+        "respuesta_correcta": "Embrague"
+    },
+    {
+        "pregunta": "¿Que moto suele tener un motor en V y sonido caracteristico?",
+        "opciones": ["V-Twin", "Inline four", "Single", "Twin"],
+        "respuesta_correcta": "V-Twin"
+    },
+    {
+        "pregunta": "¿Que tipo de motos suelen llevar ruedas con tacos para mejor agarre en tierra?",
+        "opciones": ["Enduro", "Naked", "Sport", "Touring"],
+        "respuesta_correcta": "Enduro"
+    }
+]
